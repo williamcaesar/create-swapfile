@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Input how much swap you want, in Gigabytes: "
 read number_of_swap
 number=$((number_of_swap\*1038336))
